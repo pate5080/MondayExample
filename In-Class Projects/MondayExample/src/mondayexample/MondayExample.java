@@ -15,7 +15,7 @@ public class MondayExample {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Github Operations");
+        System.out.println("GitHub Operations");
     }
     
 }
