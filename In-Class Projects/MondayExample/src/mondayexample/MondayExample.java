@@ -16,6 +16,7 @@ public class MondayExample {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println ("Learning github operations");
+        System.out.println ("Learning github operations pull");
     }
     
 }
